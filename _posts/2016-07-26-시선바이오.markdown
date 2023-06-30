@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2016-07-26
+img-logo: hpglobal/seasun_logo.png
+img: hpglobal/seasun.png
+alt: 시선바이오
+project-date: 2016-07-26
+client: 에이치피글로벌
+category: html, css, bootstrap, jquery
+description: 홈페이지 전체 화면 작업 및 유지보수
+---

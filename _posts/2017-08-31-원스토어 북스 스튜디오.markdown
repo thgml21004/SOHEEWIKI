@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2017-08-31
+img-logo: onestore/logo-onestore.png
+img: onestore/studio-onestorebooks.png
+alt: 원스토어 북스 스튜디오
+project-date: 2017-08-31
+client: 원스토어
+category: html, css
+description: 메인화면 및 유지보수
+---

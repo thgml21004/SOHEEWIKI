@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 10
+date: 2018-06-26
+img-logo: onestore/logo-onestore.png
+img: onestore/delivery.png
+alt: 무료배송 프로모션
+link : https://www.onestore.co.kr/images/event/EVENT_171027877/preview/main.html
+project-date: 2018-06-26
+client: 원스토어
+category: html, css
+description: 프로모션 및 유지보수
+---

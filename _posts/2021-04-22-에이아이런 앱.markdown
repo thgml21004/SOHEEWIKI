@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 14
+date: 2021-04-22
+img-logo: danbee/logo_ailearn.svg
+img: danbee/ailern-app.jpg
+alt: 에이아이런 app
+link : https://play.google.com/store/apps/details?id=kr.co.ailearn.app&hl=ko&gl=US
+project-date: 2021-04-22
+client: AiLearn
+category: flutter
+description: 화면 및 유지보수
+---

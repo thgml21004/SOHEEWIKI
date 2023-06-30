@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2016-08-29
+img-logo: hpglobal/ebus_logo.png
+img: hpglobal/ebus.png
+alt: 전국버스공제조합
+link : https://www.ebus.or.kr/
+project-date: 2016-08-29
+client: 에이치피글로벌
+category: html, css, bootstrap
+description: 홈페이지 메인 화면 작업
+---

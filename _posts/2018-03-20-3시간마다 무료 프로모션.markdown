@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 9
+date: 2018-03-20
+img-logo: onestore/logo-onestore.png
+img: onestore/no-charge.png
+alt: 3시간마다 무료 프로모션
+link : https://m.onestore.co.kr/images/event/EVENT_190822205/preview/main.html
+project-date: 2018-03-20
+client: 원스토어
+category: html, css
+description: 프로모션 및 유지보수
+---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 13
+date: 2021-03-03
+img-logo: danbee/logo_ailearn.svg
+img: danbee/ailern-platform.png
+alt: 에이아이런 플랫폼
+link : https://ailearn.co.kr/platform/#/login/teacher
+project-date: 2021-03-03
+client: AiLearn
+category: html, css
+description: 화면 및 유지보수
+---

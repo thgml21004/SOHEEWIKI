@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2016-06-08
+img-logo: hpglobal/goingnow_logo.png
+img: hpglobal/goingnow.png
+alt: 고잉나우 준서비스센터
+project-date: 2016-06-08
+client: 에이치피글로벌
+category: html, css, bootstrap, jquery
+description: 홈페이지 전체 화면 작업
+---

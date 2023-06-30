@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2016-03-02
+img-logo: hpglobal/skyA&C_logo.png
+img: hpglobal/skyA&C.png
+alt: sky전시회 아틀리에
+project-date: 2016-03-02
+client: 에이치피글로벌
+category: html, css, bootstrap, jquery
+description: 홈페이지 전체 화면 작업
+---

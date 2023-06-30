@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2015-07-18
+img-logo: hpglobal/e-jeil_logo.png
+img: hpglobal/e-jeil.png
+alt: 제일풍경채
+project-date: 2015-07-18
+client: 에이치피글로벌
+category: html, css, bootstrap
+description: 홈페이지 메인화면 작업
+---

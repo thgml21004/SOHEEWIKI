@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 16
+date: 2023-03-16
+img-logo: danbee/logo_autowriting.svg
+img: danbee/autowriting.png
+alt: 오토라이팅
+link : https://autowriting.ai/learning/guest
+project-date: 2023-03-16
+client: 오토라이팅
+category: html, css, vue.js
+description: 화면 작업 및 유지보수
+---
